@@ -1,0 +1,44 @@
+{
+  "name": "gas-cost",
+  "version": "1.0.0",
+  "description": "Gas tests to test algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Poolz/GasCost.git"
+  },
+  "author": "The-Poolz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/The-Poolz/GasCost/issues"
+  },
+  "homepage": "https://github.com/The-Poolz/GasCost#readme",
+  "devDependencies": {
+    "@ethersproject/bignumber": "^5.7.0",
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.4",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.6",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@nomiclabs/hardhat-ethers": "^2.2.1",
+    "@nomiclabs/hardhat-etherscan": "^3.1.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "@openzeppelin/contracts": "^4.9.3",
+    "@truffle/dashboard-hardhat-plugin": "^0.2.15",
+    "@typechain/ethers-v5": "^10.1.0",
+    "@typechain/hardhat": "^6.1.2",
+    "@types/adm-zip": "^0.5.2",
+    "@types/chai": "^4.3.8",
+    "@types/mocha": "^10.0.2",
+    "chai": "^4.3.8",
+    "fs": "^0.0.1-security",
+    "hardhat": "^2.17.2",
+    "hardhat-gas-reporter": "^1.0.9",
+    "openzeppelin-solidity": "^3.4.1",
+    "solidity-coverage": "^0.8.1",
+    "ts-node": "^10.9.1",
+    "typechain": "^8.1.0",
+    "typescript": "^5.2.2"
+  }
+}
