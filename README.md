@@ -1,2 +1,3 @@
 # GasCost
-Gas tests to test algorithms
+
+Contracts for testing algorithms with gas prices.
